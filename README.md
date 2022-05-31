@@ -5,6 +5,7 @@
 #### > Books Restaurants/Hotels and saves on firebase
 #### > Marks Favourite Restaurants/Hotels and saves on Async Storage & firebase
 #### > ChatBot (Auto Reply)
+#### > [ NOTE: APIs of this app might complete their freemium period. So, you can update them ]
 
 
 
