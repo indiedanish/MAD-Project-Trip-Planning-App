@@ -4,9 +4,9 @@
 App can be used to search different resturants 
 For that you can use this little calculator to maintain history of your discounts :)
 
-Home Screen          | Error Alert    | Save Alert |  Delete Popup
+<!-- Home Screen          | Error Alert    | Save Alert |  Delete Popup
 :------------------------:|:------------------------:|:------------------------:|:------------------------:
-<img height = "50%" src="https://github.com/indiedanish/Discount-App/blob/main/1.jpeg" /> | <img height = "50%" src="https://github.com/indiedanish/Discount-App/blob/main/2.jpeg" /> | <img height = "50%" src="https://github.com/indiedanish/Discount-App/blob/main/3.jpeg" /> | <img height = "50%" src="https://github.com/indiedanish/Discount-App/blob/main/4.jpeg" />
+<img height = "50%" src="https://github.com/indiedanish/Discount-App/blob/main/1.jpeg" /> | <img height = "50%" src="https://github.com/indiedanish/Discount-App/blob/main/2.jpeg" /> | <img height = "50%" src="https://github.com/indiedanish/Discount-App/blob/main/3.jpeg" /> | <img height = "50%" src="https://github.com/indiedanish/Discount-App/blob/main/4.jpeg" /> -->
 
 ## 🔑 LICENSE
 - This project is licensed under the MIT License - see the [LICENSE](https://github.com/indiedanish/Discount-App/blob/main/LICENSE) file for details
