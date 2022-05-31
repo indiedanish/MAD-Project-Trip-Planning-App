@@ -3,9 +3,9 @@
  ## Use of Trip Planning App: 
 App can be used to search different resturants
 
-<!-- Home Screen          | Error Alert    | Save Alert |  Delete Popup
+Home Screen          | Booking Screen    | Book Now |  Chat Screen
 :------------------------:|:------------------------:|:------------------------:|:------------------------:
-<img height = "50%" src="https://github.com/indiedanish/Discount-App/blob/main/1.jpeg" /> | <img height = "50%" src="https://github.com/indiedanish/Discount-App/blob/main/2.jpeg" /> | <img height = "50%" src="https://github.com/indiedanish/Discount-App/blob/main/3.jpeg" /> | <img height = "50%" src="https://github.com/indiedanish/Discount-App/blob/main/4.jpeg" /> -->
+<img height = "50%" src="https://github.com/indiedanish/MAD-Project-Trip-Planning-App/blob/master/1%20(4).jpeg" /> | <img height = "50%" src="https://github.com/indiedanish/MAD-Project-Trip-Planning-App/blob/master/2%20(3).jpeg" /> | <img height = "50%" src="https://github.com/indiedanish/MAD-Project-Trip-Planning-App/blob/master/3%20(3).jpeg" /> | <img height = "50%" src="https://github.com/indiedanish/MAD-Project-Trip-Planning-App/blob/master/4%20(2).jpeg" />
 
 ## 🔑 LICENSE
 - This project is licensed under the MIT License - see the [LICENSE](https://github.com/indiedanish/Discount-App/blob/main/LICENSE) file for details
