@@ -1,9 +1,9 @@
 ﻿# Trip Planning App 📱
  # Download App from here 👉 [Trip Planning App](https://drive.google.com/file/d/1qiExrxLhnZSw1UaUBQb0b_svCqR3nRly/view?usp=sharing)
  ## Features of Trip Planning App: 
-#### > Search different restaurants via API
-#### > Book Restaurants/Hotels on firebase
-#### > Mark Favourite Restaurants/Hotels through Async Storage & firebase
+#### > Searchs different restaurants via API
+#### > Books Restaurants/Hotels and saves on firebase
+#### > Marks Favourite Restaurants/Hotels and saves on Async Storage & firebase
 #### > ChatBot (Auto Reply)
 
 
