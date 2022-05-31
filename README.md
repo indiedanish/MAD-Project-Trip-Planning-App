@@ -1,5 +1,5 @@
-﻿# Discount App 📱
- # Download App from here 👉 [Trip Planning App](https://drive.google.com/drive/folders/1nsW6IBsrjWVm99_ADVPwf5xzSryLgNJq)
+﻿# Trip PLanning App 📱
+ # Download App from here 👉 [Trip Planning App](https://drive.google.com/file/d/1qiExrxLhnZSw1UaUBQb0b_svCqR3nRly/view?usp=sharing)
  ## Use of Trip Planning App: 
 App can be used to search different resturants 
 For that you can use this little calculator to maintain history of your discounts :)
